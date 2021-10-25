@@ -14,5 +14,6 @@ main()
     }
     else{
         printf("no z is greater than x & y",z);
+
     }
 }
